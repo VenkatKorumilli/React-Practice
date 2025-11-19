@@ -7,4 +7,3 @@ export const store = configureStore({
     todolistR: todoReducer,
   }
 });
-677
